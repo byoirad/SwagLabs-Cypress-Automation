@@ -35,20 +35,20 @@ git clone https://github.com/byoirad/SwagLabs-Cypress-Automation.git
 npm install cypress --save-dev
 ```
 
-![npm-install-cypress](https://github.com/user-attachments/assets/f81690ea-f627-470b-9712-93dc2f12418d)
+![npm-install-cypress](https://github.com/user-attachments/assets/d26d1f4f-28d0-45a2-a3b8-85cf4a7ae040)
 
 
 * Ainda no terminal, dentro da pasta do projeto, para abrir a interface do Cypress e executar os testes, use o comando:
 ```
 npx cypress open
 ```
-![npx-cypress-open](https://github.com/user-attachments/assets/6260a39a-0248-433d-9fb1-8004e4a63724)
+![npx-cypress-open](https://github.com/user-attachments/assets/e20410f3-a0a3-4ba3-a22d-3b2d0450986d)
 
 #
 * Arquivos '.cy.js' são arquivos de testes, ou seja, no exemplo abaixo temos 1 arquivo de execução de teste de Login:
 
 
-![image](https://github.com/user-attachments/assets/767000f9-125d-44e0-af55-54a88c51a74d)
+![2025-01-28_11-16](https://github.com/user-attachments/assets/44158fb2-3cb1-425a-a01b-afebaa6ee8d2)
 
 
 #
@@ -57,7 +57,10 @@ npx cypress open
 
 
 - Para executar o teste, basta clicar em cima do nome do arquivo
-![exec-casos-de-teste](https://github.com/user-attachments/assets/861a5e35-a8a7-4e3d-ad08-fc560dd5d908)
+  - Execução do testes automatizados:
+
+![exec-casos-de-teste](https://github.com/user-attachments/assets/9a0dee49-0a9e-4efd-98b9-73a7db59a14b)
+
 
 
 
